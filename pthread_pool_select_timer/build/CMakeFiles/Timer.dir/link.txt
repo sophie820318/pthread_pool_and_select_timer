@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Timer.dir/src/main.c.o CMakeFiles/Timer.dir/src/pthread_pool.c.o CMakeFiles/Timer.dir/src/timer_select.c.o  -o Timer -lpthread 
